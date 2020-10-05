@@ -8,5 +8,8 @@
 <body>
     <h1> Hello World </h1>
     <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+    <ul>
+    <li>satu </i>
+    <li>dua </i>
 </body>
 </html>
